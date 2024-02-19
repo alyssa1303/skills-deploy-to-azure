@@ -8,6 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   DOCKER_IMAGE_NAME: alyssa1303-azure-ttt
   AZURE_WEBAPP_NAME: alyssa1303-ttt-app
+  ### Update username
 
 jobs:
   build:
